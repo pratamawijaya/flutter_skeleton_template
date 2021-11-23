@@ -350,6 +350,7 @@
         "templates/skeleton/lib/main.dart.tmpl",
         "templates/skeleton/lib/src/app.dart.tmpl",
         "templates/skeleton/lib/src/routes.dart.tmpl",
+        "templates/skeleton/features/home/home_screen.dart.tmpl",
         "templates/skeleton/lib/src/sample_feature/sample_item.dart.tmpl",
         "templates/skeleton/lib/src/sample_feature/sample_item_details_view.dart.tmpl",
         "templates/skeleton/lib/src/sample_feature/sample_item_list_view.dart.tmpl",
